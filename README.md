@@ -3,7 +3,7 @@ State machine like applications writing automation for bare-metal embedded appli
 
 ## Project
 This is a pet project created for state machine implementations research. 
-As the app environment two modules are used: scheduler and macro-based mechanism for pauseable function execution (a kind of pseudo-threads).
+As the app environment two modules are used: scheduler and macro-based mechanism for coroutines creation and execution (a kind of pseudo-threads).
 
 ### Scheduler
 
