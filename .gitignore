@@ -55,3 +55,7 @@ dkms.conf
 /.project
 /.cproject
 /.settings/
+/html/
+/latex/
+/doxy.doxyfile.bak
+/doxy.doxyfile
